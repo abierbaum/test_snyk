@@ -1,0 +1,14 @@
+{
+  "name": "test_web_apps",
+  "version": "1.1.0",
+  "description": "Test app",
+  "author": "allen",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6"
+  },
+  "engines": {
+    "node": ">= 6.7.0",
+    "npm": ">= 3"
+  }
+}
