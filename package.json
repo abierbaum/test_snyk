@@ -23,7 +23,7 @@
     "ionic-angular": "3.8.0",
     "ionicons": "^3.0.0",
     "@ng-bootstrap/ng-bootstrap": "1.0.0-alpha.22",
-    "bootstrap": "4.0.0",
+    "bootstrap": "4.3.1",
     "@turf/bbox": "^3.7.0",
     "@turf/bbox-polygon": "^3.7.0",
     "@turf/center": "^3.7.0",
