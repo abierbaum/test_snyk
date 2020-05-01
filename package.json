@@ -45,10 +45,16 @@
     "ngrx-store-localstorage": "0.1.8",
     "ngrx-store-logger": "0.1.8",
     "video.js": "5.14",
-    "videojs-contrib-hls": "4.0.3"
+    "videojs-contrib-hls": "4.0.3",
+    "snyk": "^1.316.1"
   },
   "engines": {
     "node": ">= 6.7.0",
     "npm": ">= 3"
-  }
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
