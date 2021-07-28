@@ -44,7 +44,7 @@
     "ngrx-store-freeze": "0.1.9",
     "ngrx-store-localstorage": "0.1.8",
     "ngrx-store-logger": "0.1.8",
-    "video.js": "5.14",
+    "video.js": "7.14.3",
     "videojs-contrib-hls": "4.0.3"
   },
   "engines": {
